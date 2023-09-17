@@ -1,7 +1,7 @@
 ## How to install AlexisJonsson BetterDiscord theme
 
 1. Install BetterDiscord. You can download it from the BetterDiscord website.
-2. Download the theme file. You can find themes on the BetterDiscord website or [here](https://github.com/AlexisJonsson/AlexisJonsson.github.io/blob/master/BetterDiscordAddons/Themes/modern-discord.theme.css).
+2. Download the theme file. You can find themes on the BetterDiscord website or [here](https://github.com/AlexisJonsson/AlexisJonsson.github.io/blob/master/BetterDiscordAddons/Themes/modern-discord.theme.css) or [releases](https://github.com/simplehima/AlexisJonsson.github.io/releases/tag/Discord-Theme)
 3. Extract the theme file. Extract it to a folder.
 4. Move the theme folder to the BetterDiscord themes folder. The BetterDiscord themes folder is located at:
 
@@ -25,7 +25,7 @@ Troubleshooting
 - Linux: ```~/.config/BetterDiscord/themes```
 - Try restarting Discord again.
 - If you're still having trouble, try joining the BetterDiscord support server and asking for help.
-- make sure to disable beterfolder plugin with this Theme
+- make sure to disable beterfolder plugin with this Theme.
 
 ## Tips
 You can have multiple themes installed at the same time. To switch between themes, open Discord Settings > BetterDiscord > Themes and select the theme that you want to use.
@@ -33,9 +33,20 @@ Some themes may require additional plugins to work properly. If you're having tr
 You can also create your own BetterDiscord themes. There are many resources available online to help you get started.
 
 ## Additional Theme Files for better looks + css fix
-- Use [HorizontalServerList](https://github.com/DiscordStyles/HorizontalServerList) and enable it with AlexisJonsson Theme
-- Donwnlaod [fixedsource.css](https://onkofonko.github.io/theme/fixedsource.css) 
-- Downnload [fixes.css](https://onkofonko.github.io/theme/fixes.css)
+- Use [HorizontalServerList](https://github.com/DiscordStyles/HorizontalServerList) and enable it with AlexisJonsson Theme.
+- Donwnlaod [fixedsource.css](https://onkofonko.github.io/theme/fixedsource.css).
+- Downnload [fixes.css](https://onkofonko.github.io/theme/fixes.css).
+Those files are indluded in [releases](https://github.com/simplehima/AlexisJonsson.github.io/releases/tag/Discord-Theme) in the Themes.zip.
 
 ## Preview
 ![Preview](https://github.com/simplehima/AlexisJonsson.github.io/blob/master/images/Screenshot.png)
+
+
+## Credits: 
+
+- [AlexisJonsson](https://github.com/AlexisJonsson): The creator of the theme .
+- [DiscordStyles](https://github.com/DiscordStyles): For the HorizontalServerList.
+- [onkofonko](https://github.com/onkofonko): For The fixedsource.css and fixes.css.
+- [simplehima](https://github.com/simplehima): creating this README.md.
+- All others contributors 
+
